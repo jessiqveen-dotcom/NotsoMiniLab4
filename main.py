@@ -13,7 +13,7 @@ from CRMController import CRMController
 # =============================================================================
 # Update WIFI_SSID and WIFI_PASSWORD if using a mobile hotspot!
 WIFI_SSID = "jessica08"
-WIFI_PASSWORD = "7865875928"  # Phone hotspot password (use None for open FIU_WiFi, or "" for Wokwi-GUEST)
+WIFI_PASSWORD = ""  # Phone hotspot password (use None for open FIU_WiFi, or "" for Wokwi-GUEST)
 COURSE_SERVER = "ism6106"     # "ism6106" or "ism6205"
 PRELOAD_ALL_AT_START = False  # False = Sequence Option B (Lazy On-Demand); True = Sequence Option A (Eager)
 STUDENT_CUSTOMER_NAME = "Jessica Camacho"
